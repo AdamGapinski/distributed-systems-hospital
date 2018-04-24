@@ -1,0 +1,5 @@
+mainClassName = 'com.adam.technician.TechnicianApp'
+
+dependencies {
+    compile project(':common')
+}

@@ -1,0 +1,5 @@
+rootProject.name = 'lab3-rabbitmq-hospital'
+include "administrator"
+include "common"
+include "orthopedist"
+include "technician"

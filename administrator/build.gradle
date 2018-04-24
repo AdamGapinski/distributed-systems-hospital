@@ -1,0 +1,5 @@
+mainClassName = 'com.adam.administrator.AdministratorApp'
+
+dependencies {
+    compile project(':common')
+}
